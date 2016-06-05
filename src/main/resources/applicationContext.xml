@@ -64,7 +64,6 @@
         <!--<property name="suffix" value=".jsp"/>-->
     <!--</bean>-->
 
-    
     <!--注册一个SpringMVC拦截器-->
     <mvc:interceptors>
         <mvc:interceptor>
